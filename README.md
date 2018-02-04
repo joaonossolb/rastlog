@@ -3,7 +3,7 @@ Analisa o arquivo access.log do servidor apache e tem a finalidade de ajudar a d
 
 
 # Posso adaptar o codigo de Rastlog?
-Sim, desde que coloque o meu nom(JOÃO ALEXANDRE NOSSOL BALBINO)e e github(github.com/joaonossolb) como crédito em seu codigo.
+Sim, desde que coloque o meu nome(JOÃO ALEXANDRE NOSSOL BALBINO) e github(github.com/joaonossolb) como crédito em seu codigo.
 
 # ATENÇÃO
 NÃO me responsabilizo pelo uso de forma indevida deste script
